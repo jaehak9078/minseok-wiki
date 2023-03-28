@@ -1,5 +1,35 @@
-# 🎸 기타자료
+---
+description: "\b용어들을 설명하는 문서"
+---
 
-## 주혁이가 부러운 것을 나타낸 20개국어 표현
+# 👓 용어사전
 
-나는 주혁이가 너무너무 부럽습니다 I envy Joo Hyuk so much 私はジュヒョクがとても羨ましいです 好羡慕朱赫 Envidio mucho a Joo Hyuk أنا أحسد جو هيوك كثيرًا Tak moc závidím Joo Hyukovi Толкова завиждам на Джу Хюк Я так завидую Джу Хёку Annyira irigylem Joo Hyukot Nneegomba nnyo Joo Hyuk Ech beneiden de Joo Hyuk sou vill Jag avundas Joo Hyuk så mycket Многу ми завидувам на Џо Хјук Ik ben zo jaloers op Joo Hyuk Ich beneide Joo Hyuk so sehr Би Жү Хюкт маш их атаархдаг مون کي جوو هائيڪ کان تمام گهڻو حسد آهي อิจฉาจูฮยอกมาก Aku iri banget ka
+### 민석랜드
+
+* 민석이의 동의대 밑 자취방을 일컫는 말.
+* 현재 서동의 주택은 민석랜드 시즌2이지만 최씨의 부재로 아무도 찾지않는 곳이 되어버렸다.
+
+### 또이런다
+
+* 주혁이의 유행어
+* ㄸㅇㄹㄷ 로 활용 가능
+
+### N단계 오버한다
+
+* 상대가 오버해서 말할 때 사용
+* 오버의 레벨에 따라 n에 기입
+
+### ㅅㄹㅈ
+
+* 주로 주혁이에게 살려달라고 할 때 사용
+* 민석이에게 목숨을 위협받을 때도 활용
+
+### ㅅㅎㄷ
+
+* 심하다의 준말
+
+### ㄱㅈㄱ
+
+* 갑자기의 준말
+* 주혁이가 밀고 있는 유행어
+

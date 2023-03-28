@@ -9,7 +9,8 @@
   * [민석위키 오픈](about-us/undefined/undefined-1.md)
 * [📃 별명리스트](about-us/undefined-1.md)
 * [👤 인물사전](about-us/undefined-2.md)
-* [🎸 기타자료](about-us/undefined-3.md)
+* [👓 용어사전](about-us/undefined-3.md)
+* [🎸 기타자료](about-us/undefined-4.md)
 
 ## Collaborating
 
